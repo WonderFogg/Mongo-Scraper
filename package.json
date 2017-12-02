@@ -1,0 +1,21 @@
+{
+  "name": "mongo-scraper",
+  "version": "1.0.0",
+  "description": "mongo scraper new york times",
+  "main": "server.js",
+  "dependencies": {},
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/WonderFogg/Mongo-Scraper.git"
+  },
+  "author": "wonder fogg",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/WonderFogg/Mongo-Scraper/issues"
+  },
+  "homepage": "https://github.com/WonderFogg/Mongo-Scraper#readme"
+}
